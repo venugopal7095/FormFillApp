@@ -4,9 +4,13 @@
     <p>Please fill in this form!</p>
     <hr>
     <br>
-
+    
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Nmae" name="name" id="name" required>
+    <br>
+
+    <label for="aadhar"><b>Aadhar</b></label>
+    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
     <label for="email"><b>Email</b></label>
