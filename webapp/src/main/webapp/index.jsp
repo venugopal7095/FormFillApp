@@ -13,6 +13,9 @@
     <input type="text" placeholder="Enter Mother  Nmae" name="Mother name" id="Mother name" required>
     <br>
 
+    <label for="Father name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father  Nmae" name="Father name" id="Father name" required>
+    <br>
 
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
