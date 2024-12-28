@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter Father  Nmae" name="Father name" id="Father name" required>
     <br>
 
+    <label for="Brother name"><b>Brother Name</b></label>
+    <input type="text" placeholder="Enter Brother  Nmae" name="Brother name" id="Brother name" required>
+    <br>
+
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
